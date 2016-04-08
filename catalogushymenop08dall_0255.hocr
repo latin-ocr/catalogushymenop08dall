@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop08dall/catalogushymenop08dall_0255.png"; bbox 0 0 2091 3343; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 2073 1129 2105">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 2073 1129 2105">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 2073 1129 2105; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 294 2073 415 2105; x_wconf 22' lang='grc' dir='ltr'><strong><em>νέου-ογ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 427 2079 747 2105; x_wconf 43' lang='grc' dir='ltr'><strong><em>ιυᾼφκ““.,φ*ι.,.ι..</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 773 2095 786 2097; x_wconf 38' lang='grc' dir='ltr'>Ὰ</span> <span class='ocrx_word' id='word_1_4' title='bbox 806 2094 863 2100; x_wconf 59' lang='grc'><strong><em>,-,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 885 2095 900 2099; x_wconf 76' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 932 2082 1013 2102; x_wconf 29' lang='grc' dir='ltr'><strong><em>,ζρή</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1051 2093 1060 2099; x_wconf 79' lang='grc'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1081 2095 1083 2097; x_wconf 97' lang='grc'>.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1123 2095 1129 2100; x_wconf 64' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2091 3343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2091 3343">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2091 3343; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2091 3343; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

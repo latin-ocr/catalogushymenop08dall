@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop08dall/catalogushymenop08dall_1088.png"; bbox 0 0 2143 3343; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 443 1682 575">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 443 1682 575">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 443 1682 575; baseline 0.001 -81"><span class='ocrx_word' id='word_1_1' title='bbox 0 459 199 575; x_wconf 40' lang='grc' dir='ltr'><em>Ψ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 256 453 513 510; x_wconf 38' lang='grc' dir='ltr'><em>Οῑίῶμαι</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 592 443 1201 512; x_wconf 37' lang='grc' dir='ltr'><em>ηΜςψΛᾼκ-,χωη.μ.,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1250 454 1490 498; x_wconf 45' lang='lat' dir='ltr'><em>must-w,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1563 453 1682 500; x_wconf 65' lang='lat'><em>[307⁶.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
