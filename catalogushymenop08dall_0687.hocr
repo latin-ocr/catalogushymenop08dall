@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop08dall/catalogushymenop08dall_0687.png"; bbox 0 0 2143 3343; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 143 2830 774 2947">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 143 2822 774 2946">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 2830 774 2885; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 143 2861 150 2885; x_wconf 74' lang='lat'>¹.</span> <span class='ocrx_word' id='word_1_2' title='bbox 249 2830 531 2882; x_wconf 40' lang='lat' dir='ltr'>snm&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 539 2838 679 2874; x_wconf 47' lang='lat' dir='ltr'>*wikk-</span> <span class='ocrx_word' id='word_1_4' title='bbox 684 2844 774 2869; x_wconf 41' lang='grc' dir='ltr'>*μὶ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 403 2903 721 2947; baseline -0.002 -7.384"><span class='ocrx_word' id='word_1_5' title='bbox 403 2903 721 2947; x_wconf 36' lang='lat' dir='ltr'>*navah</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2143 3343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2143 3343">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2143 3343; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2143 3343; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
